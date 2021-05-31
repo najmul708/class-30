@@ -1,0 +1,17 @@
+.b1{
+    border: 2px solid orange;
+    border-radius: 25%;
+}
+.bg1{
+background-image: url(./img/ia_200000012.jpg);
+background-size:100% ;
+background-repeat: no-repeat;
+padding: 200px 0px;
+
+}
+.bg2{
+    background: #f7f9ff;
+}
+.pro{
+    background: #f7f9ff;
+}
